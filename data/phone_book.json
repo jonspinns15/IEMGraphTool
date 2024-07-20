@@ -1,5 +1,4 @@
 [
-
   {	"name":   "64 Audio",
     "phones": [ {"name":"Nio","file":["Nio M15","Nio M20", 	"Nio MX", "Nio No Filter"]}, "Tia Trio", {"name":"U12T","file":["U12T M15","U12T M20"]} ]
   },
@@ -59,7 +58,10 @@
     "phones": [ "Grell TWS1X", "Grell TWS1X (broken)", {"name":"x Nuforce Move","file":"Move"} ]
   },
   {	"name":   "Dunu",
-    "phones": [ "DK2001", "DK3001 Pro", "EST 112",{"name":"Falcon Pro","file":["Falcon Pro","Falcon Pro Transparency","Falcon Pro Atmospheric"]}, "Kima", "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Titan S","Vulkan", "Zen","Zen Pro" ]
+    "phones": [ "DK2001", "DK3001 Pro", "EST 112",{"name":"Falcon Pro","file":["Falcon Pro","Falcon Pro Transparency","Falcon Pro Atmospheric"]}, "Kima", "Luna", {"name":"SA6","file":["SA6","SA6 - On"]},"Titan S", "Titan S2", "Vulkan", "Zen","Zen Pro" ]
+  },
+  {	"name":   "Elysian",
+    "phones": [ {"name":"Annihilator", "file":["Annihilator 2023","Annihilator 2023-2"]}, {"name":"Diva", "file":["Diva Mid","Diva Max", "Diva Min"]} ]
   },
   {	"name":   "Empire Ears",
     "phones": [ {"name":"Odin", "file":["Odin","Odin Sample 2"]}, "Wraith", "Valkyrie" ]
@@ -70,14 +72,11 @@
   {	"name":   "Etymotic Filter Kit",
     "phones": [ "ER3XR Green", "ER3XR Brown", "ER3XR Red", "ER3XR Orange", "ER3XR White", "ER3XR None"]
   },
-  {	"name":   "Elysian",
-    "phones": [ "Diva" ]
-  },
   {	"name":   "F-Audio",
     "phones": [ "Major" ]
   },
   {	"name":   "FatFreq",
-    "phones": [ "Maestro Mini" ]
+    "phones": [ "Maestro Mini", "Maestro SE" ]
   },
   {	"name":   "Fearless",
     "phones": [ "Barcelona", "x Crinacle Dawn", "Provence", "S4", "S8Z", "Shangri-La", "Tequila" ]
@@ -91,7 +90,7 @@
   },
   {	"name":   "FiR",
   "suffix":	"Audio",
-  "phones": [ "VxV"]
+  "phones": [ "RN6", "VxV", "XE6"]
   },
   {  "name":   "Gold Planar",
     "phones": [ "GL12 Filter", "GL12 No Filter"]
@@ -117,6 +116,9 @@
   {	"name":   "KB Ear",
     "phones": [ "Hi7"]
   },
+  {	"name":   "Kefine",
+    "phones": [ "Delci"]
+  },
   {	"name":   "Kinera",
     "phones": [ "BD005 Pro"]
   },
@@ -139,7 +141,7 @@
     "phones": [ "Homunculus", "Thummim"]
   },
   {	"name":   "Moondrop",
-    "phones": [ "Aria", "Blessing 2", "Chu", "Dusk", "Kanas Pro", "KXXS", "Spaceship", "SSR"]
+    "phones": [ "Aria", "Aria 2", "Blessing 2", "Chu", "Dusk", "Golden Ages", "Kanas Pro", "KXXS", "May", "Spaceship", "SSR", "Starfield 2"]
   },
   {	"name":   "Newmine",
     "phones": [ "R9 TWS"]
@@ -149,6 +151,9 @@
   },
   {	"name":   "Noble",
     "phones": [ "Sultan"]
+  },
+  {	"name":   "Oriolus",
+    "phones": [ "Monachaa"]
   },
   {	"name":   "Ovidius",
     "phones": [ "RX-100"]
@@ -168,11 +173,14 @@
   {	"name":   "Rapt-Go",
     "phones": [ "Bridge", "HOOK-X", "Leaf"]
   },
+  {	"name":   "Rhapsidio",
+    "phones": [ "Supreme V3"]
+  },
   {	"name":   "Sabbat",
     "phones": [ "E12 Ultra TWS"]
   },
   {	"name":   "Samsung",
-    "phones": [ {"name":"Galaxy Buds","file":["Galaxy Buds", "Galaxy Buds Bass", "Galaxy Buds Soft", "Galaxy Buds Dynamic", "Galaxy Buds Clear", "Galaxy Buds Treble"]}, {"name":"Galaxy Buds+","file":["Galaxy Buds+", "Galaxy Buds+ Bass", "Galaxy Buds+ Soft", "Galaxy Buds+ Dynamic", "Galaxy Buds+ Clear", "Galaxy Buds+ Treble"]}, {"name":"Galaxy Buds Pro","file":["Galaxy Buds Pro", "Galaxy Buds Bass Pro", "Galaxy Buds Pro Soft", "Galaxy Buds Pro Dynamic", "Galaxy Buds Pro Clear", "Galaxy Buds Pro Treble"]}, {"name":"Galaxy Buds Live","file":["Galaxy Buds Live", "Galaxy Buds Live Bass", "Galaxy Buds Live Soft", "Galaxy Buds Live Dynamic", "Galaxy Buds Live Clear", "Galaxy Buds Live Treble"]}]
+    "phones": [ {"name":"Galaxy Buds","file":["Galaxy Buds", "Galaxy Buds Bass", "Galaxy Buds Soft", "Galaxy Buds Dynamic", "Galaxy Buds Clear", "Galaxy Buds Treble"]}, {"name":"Galaxy Buds+","file":["Galaxy Buds+", "Galaxy Buds+ Bass", "Galaxy Buds+ Soft", "Galaxy Buds+ Dynamic", "Galaxy Buds+ Clear", "Galaxy Buds+ Treble"]}, {"name":"Galaxy Buds Pro","file":["Galaxy Buds Pro", "Galaxy Buds Bass Pro", "Galaxy Buds Pro Soft", "Galaxy Buds Pro Dynamic", "Galaxy Buds Pro Clear", "Galaxy Buds Pro Treble"]}, "Galaxy Buds Pro 2", {"name":"Galaxy Buds Live","file":["Galaxy Buds Live", "Galaxy Buds Live Bass", "Galaxy Buds Live Soft", "Galaxy Buds Live Dynamic", "Galaxy Buds Live Clear", "Galaxy Buds Live Treble"]}]
   },
   {	"name":   "SeeAudio",
     "phones": [ "Yume", {"name":"x Crinacle Yume Midnight","file":"Yume Midnight"}, "Yume 2"]
@@ -184,16 +192,19 @@
     "phones": [ "Sono"]
   },
   {	"name":   "Shozy",
-    "phones": ["Ceres", "Form 1.1", "Form 1.4", "V33"]
+    "phones": ["Ceres", "Form 1.1", "Form 1.4", "P20", "V33"]
   },
   {	"name":   "Simgot",
-    "phones": [ "EA500 Black", "EA500 Red", "EN700 Pro", "EW100P"]
+    "phones": [ {"name":"EA500","file":["EA500 Red", "EA500 Black"]},{"name":"EA500LM","file":["EA500LM Gold", "EA500LM Red", "EA500LM Black"]},{"name":"EA1000 Fermat","file":["EA1000 Red", "EA1000 Black", "EA1000 Gold"]}, "EM6L", "EN700 Pro", "EW100P"]
   },
   {	"name":   "Simphonio",
     "phones": [ "VR1"]
   },
+  {	"name":   "Sivga",
+    "phones": [ "Nightengale", "Que"]
+  },
   {	"name":   "Sony",
-    "phones": [ "IER-M9", "MH-EX300AP", "MH755", "WF-1000XM3","XBA-N3"]
+    "phones": [ "IER-M9", "IER-Z1R", "MH-EX300AP", "MH755", "WF-1000XM3", "WF-1000XM4","XBA-N3"]
   },
   {	"name":   "Status Audio",
     "phones": [ "BT Transfer"]
@@ -202,7 +213,7 @@
     "phones": [ "Storm"]
   },
   {	"name":   "Symphonium",
-    "phones": [ "Crimson", "Helios", "Meteor", "Triton"]
+    "phones": [ "Crimson", "Helios", "Meteor", "Titan", "Triton"]
   },
   {	"name":   "Thieaudio",
     "phones": [ "Clairvoyance", "Elixir","Legacy 2", {"name":"Legacy 3","file":["Legacy 3", "Legacy 3 01", "Legacy 3 10", "Legacy 3 11"]}, "Legacy 3 CIEM", {"name":"Legacy 4","file":["Legacy 4", "Legacy 4 01", "Legacy 4 10", "Legacy 4 11"]}, "Legacy 5", {"name":"Monarch","file":["Monarch","Monarch (Sample 2)"]}, "Monarch MK2", {"name":"Voyager 3","file":["Voyager 3", "Voyager 3 01", "Voyager 3 10", "Voyager 3 11"]}, "Voyager 14"]
@@ -211,7 +222,7 @@
     "phones": [ "No3"]
   },
   {	"name":   "Tin Hifi",
-    "phones": [ "C2", "C3", "C5", {"name":"P1","file":"Tin P1"}, "P1 Beta", "P1 Plus", "P1 Max", "P2", "T1 Plus","T2 DLC", "T2 Evo", "T2 Plus", "T3 Plus", "T4", "T4 Plus", "T5", "TWS 2000", "TWS 2000 Wired"]
+    "phones": [ "C2", "C3", "C5", "Dudu", {"name":"P1","file":"Tin P1"}, "P1 Beta", "P1 Plus", "P1 Max", "P1 Max II", "P2", "T1 Plus","T2 DLC", "T2 Evo", "T2 Plus", "T3 Plus", "T4", "T4 Plus", "T5", "T5S", "TWS 2000", "TWS 2000 Wired"]
   },
   {	"name":   "Tipsy",
     "phones": [ "Dunmer Pro", "TTROMS"]
@@ -226,10 +237,10 @@
     "phones": ["BAX", "V90", {"name":"VX","file":"TRN VX"}, "X7"]
   },
   {	"name":   "TruthEar",
-    "phones": ["x Crinacle Zero"]
+    "phones": ["x Crinacle Zero", "Gate"]
   },
   {	"name":   "Unique Melody",
-    "phones": [ "ME1 CIEM", "MEST CIEM", "MEST", "MEST MK2", "Mini MEST", {"name":"MEST MK1 Impedance", "file":["MEST CIEM 1 Ohm","MEST CIEM 2.7 Ohm","MEST CIEM 20 Ohm","MEST CIEM 75 Ohm"]}, {"name":"MEST MK2 Impedance", "file":["MEST MK2 0.5 Ohm","MEST MK2 2.7 Ohm","MEST MK2 20 Ohm","MEST MK2 75 Ohm"]}, "Mest MK3", "MEXT","U-Free"]
+    "phones": [ "ME1 CIEM", "MEST CIEM", "MEST", "MEST MK2", "Mini MEST", {"name":"MEST MK1 Impedance", "file":["MEST CIEM 1 Ohm","MEST CIEM 2.7 Ohm","MEST CIEM 20 Ohm","MEST CIEM 75 Ohm"]}, {"name":"MEST MK2 Impedance", "file":["MEST MK2 0.5 Ohm","MEST MK2 2.7 Ohm","MEST MK2 20 Ohm","MEST MK2 75 Ohm"]}, "Mest MK3", "MEXT","U-Free", "Multiverse Mentor"]
   },
   {	"name":   "Vision Ears",
     "phones": [ {"name":"Elysium","file":["Elysium", "Elysium 2 ohm"]}, {"name":"Erlkonig","file":["Erlkonig 1", "Erlkonig 2", "Erlkonig 3", "Erlkonig 4"]}, "EVE20", "EXT","Phonix", "VE8"]
